@@ -1,5 +1,28 @@
-### Hi there 👋
+# 👋 Olá, eu sou o Wilian
 
+Um desenvolvedor front-end e UI designer situado em São Paulo, Brasil
+
+## Atualmente estou estudando
+
+![UX/UI](https://img.shields.io/badge/UX/UI-BC3E3E?style=for-the-badge)
+![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
+![TAILWIND](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TYPESCRIPT](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+
+## Ferramentas que uso
+
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)
+![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+
+## Como me encontrar
+
+[![wilian.dev](https://img.shields.io/badge/wilian.dev-BC3E3E?style=for-the-badge 'wilian.dev')](https://wilian.dev)
+[![LINKEDIN](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff 'LINKEDIN')](https://linkedin.com/in/wiliandev)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff 'INSTAGRAM')](https://instagram.com/wilian.dev)
+[![EMAIL](https://img.shields.io/badge/email-ea4335?style=for-the-badge&logo=gmail&logoColor=ffffff 'EMAIL')](mailto:contato@wilian.dev)
 <!--
 **Wilian-N-Silva/Wilian-N-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
