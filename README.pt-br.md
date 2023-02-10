@@ -1,10 +1,10 @@
-# 👋 Hi, I'm William
-A front-end developer and UI designer based in São Paulo, Brazil
+# 👋 Olá, eu sou o Wilian
+Um desenvolvedor front-end e UI designer situado em São Paulo, Brasil
 
-[![wilian.dev](https://img.shields.io/badge/lang-pt--br-1a7e2f?style=flat-square 'wilian.dev')](./README.pt-br.md)
 [![wilian.dev](https://img.shields.io/badge/lang-en-BC3E3E?style=flat-square 'wilian.dev')](./README.md)
+[![wilian.dev](https://img.shields.io/badge/lang-pt--br-1a7e2f?style=flat-square 'wilian.dev')](./README.pt-br.md)
 
-## I am currently studying
+## Atualmente estou estudando
 
 ![UX/UI](https://img.shields.io/badge/UX/UI-BC3E3E?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -14,12 +14,12 @@ A front-end developer and UI designer based in São Paulo, Brazil
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
 
-## Tools
+## Ferramentas
 
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)
 ![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
-## Get in touch with me
+## Entre em contato comigo
 
 [![wilian.dev](https://img.shields.io/badge/wilian.dev-BC3E3E?style=for-the-badge 'wilian.dev')](https://wilian.dev)
 [![LINKEDIN](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff 'LINKEDIN')](https://linkedin.com/in/wiliandev)
