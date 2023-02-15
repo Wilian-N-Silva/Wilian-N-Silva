@@ -10,9 +10,10 @@ A front-end developer and UI designer based in São Paulo, Brazil
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![TAILWIND](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
+![TAILWIND](https://img.shields.io/badge/tailwind_css-f7f7f7?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TYPESCRIPT](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![REACT](https://img.shields.io/badge/react.js-212121?style=for-the-badge&logo=react&logoColor=61dafb)
 
 ## Tools
 
